@@ -3,6 +3,11 @@
   "displayName": "Rowie",
   "description": "Turns many rows into one row, seperated by a comma, encapsuled in quotation marks",
   "version": "0.0.1",
+  "publisher": "ReneEichhorn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reneichhorn/rowie.git"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
