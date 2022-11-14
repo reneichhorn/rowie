@@ -1,4 +1,4 @@
-# rowie README
+# Rowie
 
 This extension will take the open File and change it from this
 ```
